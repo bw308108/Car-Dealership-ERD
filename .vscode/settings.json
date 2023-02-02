@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://owcinodf:E7OuHshtoJ8bTQsAHvYbFbxMY_BQcXWq@fanny.db.elephantsql.com/owcinodf",
+            "name": "Car_Dealership_Data"
+        }
+    ]
+}
